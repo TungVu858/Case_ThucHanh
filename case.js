@@ -80,7 +80,7 @@ class Animal {
     }
 
     toString() {
-        return "Đối tượng " + this.getName().toString() + " có cân nặng là: " + this.getWeight().toString() + "<br>";
+        return "Code câu 4 : "+" Đối tượng " + this.getName().toString() + " có cân nặng là: " + this.getWeight().toString() + "<br>";
     }
 }
 
